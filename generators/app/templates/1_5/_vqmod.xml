@@ -1,0 +1,25 @@
+<modification>
+	
+	<id><%= titleized_name %></id>
+	<version>1</version>
+	<vqmver>1</vqmver>
+	<author></author>
+	<email></email>
+	<website>http://</website>
+	
+	<!-- Start Admin Controller -->
+		
+	<file name="admin/controller/module/<%= underscored_name %>.php">
+		<operation>
+			<search position="before"><![CDATA[
+			//
+			]]></search>
+			<add><![CDATA[
+			//
+			]]></add>
+		</operation>
+	</file>
+	
+	<!-- End Admin Controller -->
+	
+</modification>
