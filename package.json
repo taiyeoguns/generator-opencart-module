@@ -1,6 +1,6 @@
 {
   "name": "generator-opencart-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Opencart module generator for Yeoman",
   "homepage": "https://github.com/taiyeoguns/generator-opencart-module",
   "author": {
@@ -13,7 +13,8 @@
   ],
   "main": "generators\\index.js",
   "keywords": [
-    "",
+    "opencart",
+    "module",
     "yeoman-generator"
   ],
   "dependencies": {
