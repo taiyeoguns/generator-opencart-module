@@ -1,4 +1,4 @@
-# generator-opencart-module [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-opencart-module [![NPM version][npm-image]][npm-url]
 > 
 
 ## Installation
@@ -27,9 +27,3 @@ Apache-2.0 © [Taiye Ogunnigbo]()
 
 [npm-image]: https://badge.fury.io/js/generator-opencart-module.svg
 [npm-url]: https://npmjs.org/package/generator-opencart-module
-[travis-image]: https://travis-ci.org//generator-opencart-module.svg?branch=master
-[travis-url]: https://travis-ci.org//generator-opencart-module
-[daviddm-image]: https://david-dm.org//generator-opencart-module.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//generator-opencart-module
-[coveralls-image]: https://coveralls.io/repos//generator-opencart-module/badge.svg
-[coveralls-url]: https://coveralls.io/r//generator-opencart-module
