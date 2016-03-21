@@ -1,5 +1,11 @@
-# generator-opencart-module [![NPM version][npm-image]][npm-url]
-> 
+# Module scaffold creator for Opencart
+
+[![NPM version][npm-image]][npm-url]
+
+
+This package provides an easy way to create a starting structure for your Opencart module.
+
+![J9dzRT](http://cdn.makeagif.com/media/3-21-2016/J9dzRT.gif)
 
 ## Installation
 
@@ -16,9 +22,11 @@ Then generate your new project:
 yo opencart-module
 ```
 
-## Getting To Know Yeoman
+## Features
 
-Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he&#39;s very easy to work with. If you think he&#39;s too opinionated, he can be easily convinced. Feel free to [learn more about him](http://yeoman.io/).
+- Allows to specify module type such as Payment, Shipping, Order Total, Feed
+- Supports creating modules for Opencart 1.5.x and 2.x versions.
+- Optionally add vQmod support
 
 ## License
 
